@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    align-items: center;
+}
+.diagram img{
+    height: 300px;
+}
+.options form{
+    display: grid;
+    margin-right: 30px;
+}
+.options form input{
+    margin-bottom: 20px;
+}
